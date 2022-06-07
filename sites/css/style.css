@@ -15,7 +15,7 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 20px;
-    height: 70px;
+    height: 80px;
 }
 .nav-items a{
     margin: 30px;
