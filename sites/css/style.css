@@ -47,7 +47,8 @@ nav {
     font-size: 55px;
     margin-left: auto;
     margin-right: auto;
-    width: 20em
+    width: 20em;
+    text-align: left;
 }
 .content2 {
     display: flex;
