@@ -28,8 +28,7 @@ nav {
     height: 100%;
 }
 .content{
-    text-align: justify;
-    text-align-last: center;
+    text-align: center;
 }
 .content h1{
     display: block;
@@ -47,7 +46,8 @@ nav {
     font-size: 55px;
     margin-left: auto;
     margin-right: auto;
-    width: 20em
+    width: 20em;
+    text-align: left;
 }
 .content2 {
     display: flex;
@@ -60,6 +60,8 @@ nav {
     text-align: left;
     margin: 50px;
 }
+
+
 h2 {
     font-size: 43px;
     text-align:center;
@@ -200,4 +202,9 @@ footer{
 }
 .four {
     margin-left: 30px;
+}
+
+.bababoi {
+    display: flex;
+    justify-content: center;
 }
